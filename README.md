@@ -1,4 +1,4 @@
-# CTON - Controle de Tráfego Online.
+#  flutter_application_getx
 
 Aplicativo para monitoramento do transito e lavratura de Autos de Infrações por agentes de trânsito.
 
